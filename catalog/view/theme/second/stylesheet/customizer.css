@@ -1,0 +1,276 @@
+ body {
+     font-family: 'Roboto', sans-serif;
+ }
+ 
+ body {
+     width: 100%;
+ }
+ 
+ body {
+     background-color: #f5f5f5;
+ }
+ 
+ body {
+     background-color: #f5f5f5;
+ }
+ 
+ body {
+     color: #666;
+ }
+ 
+ body {
+     color: #666;
+ }
+ 
+ a,
+ header #cart>.btn-inverse,
+ footer .copyright a,
+ .social-links a:hover {
+     color: #2760fd;
+ }
+ 
+ a:hover,
+ header #cart>.btn-inverse:hover,
+ footer .copyright a:hover,
+ #search .btn-lg:hover {
+     color: #2760fd;
+ }
+ 
+ nav#top {
+     background-color: #333;
+ }
+ 
+ .dropdown-menu li>a:hover,
+ #top #currency .currency-select:hover {
+     background-color: #b5a766;
+ }
+ 
+ #menu {
+     background-color: #fff;
+ }
+ 
+ #menu .nav>li>a {
+     border-color: #e6e6e6;
+ }
+ 
+ #menu .container .collapse.navbar-collapse .nav.navbar-nav li a:first-child,
+ #menu #category,
+ #menu .btn-navbar {
+     color: #2760fd;
+ }
+ 
+ #menu .container .collapse.navbar-collapse .nav.navbar-nav li a:first-child:hover,
+ #menu #category,
+ #menu .btn-navbar:hover {
+     color: #ffffff;
+ }
+ 
+ #menu .nav>li>a:hover,
+ #menu .nav>li.open>a {
+     background-color: #2760fd;
+ }
+ 
+ #menu .container .collapse.navbar-collapse .nav.navbar-nav .dropdown-menu li a,
+ .dropdown-menu a {
+     color: #333;
+ }
+ 
+ #menu .container .collapse.navbar-collapse .nav.navbar-nav .dropdown-menu li a:hover,
+ #menu .dropdown-menu .see-all:hover {
+     color: #FFFFFF;
+ }
+ 
+ .collapse.navbar-collapse .nav.navbar-nav .dropdown-menu {
+     background-color: #FFFFFF;
+ }
+ 
+ .collapse.navbar-collapse .nav.navbar-nav .dropdown-menu .dropdown-inner .list-unstyled li a:hover,
+ #menu .dropdown-menu .see-all:hover {
+     background-color: #b5a766;
+ }
+ 
+ .breadcrumb {
+     background-color: transparent;
+ }
+ 
+ .breadcrumb {
+     border-color: #ddd;
+ }
+ 
+ .breadcrumb>li:after {
+     border-color: #ddd;
+ }
+ 
+ .breadcrumb li a {
+     color: #2760fd;
+ }
+ 
+ .breadcrumb li a:hover {
+     color: #9b8935;
+ }
+ 
+ header #cart>.btn-inverse {
+     cart-color: #2760fd;
+ }
+ 
+ footer {
+     background-color: #333;
+ }
+ 
+ footer {
+     border-color: transparent;
+ }
+ 
+ footer {
+     border-top-width: ;
+ }
+ 
+ footer {
+     color: #fff;
+ }
+ 
+ footer h3 {
+     color: #008db9;
+ }
+ 
+ footer .container .row .col-sm-3 .list-unstyled li a {
+     color: #ffffff;
+ }
+ 
+ footer .container .row .col-sm-3 .list-unstyled li a:hover {
+     color: #ffffff;
+ }
+ 
+ .product-thumb .price {
+     color: #ffffff;
+ }
+ 
+ .product-thumb .button-group button:first-of-type {
+     background-color: #2760fd;
+ }
+ 
+ .product-thumb .button-group button:first-of-type:hover {
+     background-color: #2760fd;
+ }
+ 
+ .product-thumb .button-group button:first-of-type:hover {
+     border: ;
+ }
+ 
+ .product-thumb .button-group button:first-of-type {
+     border-color: ;
+ }
+ 
+ .product-thumb .button-group button:first-of-type:hover {
+     border-color: ;
+ }
+ 
+ .product-thumb .button-group button:first-of-type {
+     color: #fff;
+ }
+ 
+ .product-thumb .button-group button:first-of-type:hover {
+     color: #fff;
+ }
+ 
+ .product-thumb .button-group button {
+     background-color: #eee;
+ }
+ 
+ .product-thumb .button-group button:hover {
+     background-color: #ddd;
+ }
+ 
+ .product-thumb .button-group button:hover {
+     border-color: #ddd;
+ }
+ 
+ .product-thumb .button-group button {
+     color: #888;
+ }
+ 
+ .product-thumb .button-group button:hover {
+     color: #444;
+ }
+ 
+ .btn-primary {
+     background-color: #2760fd;
+ }
+ 
+ .btn-primary:hover {
+     background-color: #2760fd;
+ }
+ 
+ .btn-primary {
+     border-color: #b5a766;
+ }
+ 
+ .btn-primary {
+     color: #fff;
+ }
+ 
+ .btn-primary:hover {
+     color: #fff;
+ }
+ 
+ .btn-danger {
+     background-color: #c9302c;
+ }
+ 
+ .btn-danger:hover {
+     background-color: #ac2925;
+ }
+ 
+ .btn-danger {
+     border-color: #ac2925;
+ }
+ 
+ .btn-danger {
+     color: #fff;
+ }
+ 
+ .btn-danger:hover {
+     color: #fff;
+ }
+ 
+ .btn-default {
+     background-color: transparent;
+ }
+ 
+ .btn-default:hover {
+     background-color: #e6e6e6;
+ }
+ 
+ .btn-default {
+     border-color: #ccc;
+ }
+ 
+ .btn-default:hover {
+     border-color: #adadad;
+ }
+ 
+ .btn-default {
+     color: #777;
+ }
+ 
+ .btn-default:hover {
+     color: #333;
+ }
+ 
+ .module-title span {
+     border-top-color: #b5a766;
+ }
+ 
+ .panel-heading h4 {
+     color: #2760fd;
+ }
+ 
+ #ar-step-account.text-primary,
+ #ar-step-address.text-primary,
+ #ar-step-payment.text-primary {
+     color: #b5a766;
+ }
+ 
+ header #cart>.btn-inverse {
+     background-image: url(../image/headercart.png);
+ }
